@@ -2,10 +2,10 @@
 
 $config = [
 
-    'api_url'   => "https://demo-api.simbase.eu", // API url
-    'api_usr'  => "vo.api", // API username
-    'api_pwd'  => "Apitest1", // API password
-    'api_iid'  => "D004005", // API interface id hexadecimal
+    'api_url'   => "", // API url
+    'api_usr'  => "", // API username
+    'api_pwd'  => "", // API password
+    'api_iid'  => "", // API interface id hexadecimal
     'api_ver'  => 8, // API version
     'api_hash' => "open", // API password mode [open/hash]
     'api_imid' => "no", // ignore message_id [yes/no]
