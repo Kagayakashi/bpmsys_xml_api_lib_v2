@@ -3,7 +3,7 @@
 /** Details
  * Lib Name: SimBASE API
  * Description: Lib for sending API messages to SimBASE system
- * Version: 2.1
+ * Version: 2.1 | 2020
  * Author: Vyacheslav Odinokov
  * Author contact: kagayakashi.vo@gmail.com | @kagayakashi
  **/
