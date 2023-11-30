@@ -1,3 +1,4 @@
-# SimBASE API lib v2
+# SB API Lib v2
+Library for integration with XML API (SimBASE system).
 
-Usage example inside index.php
+Example in index.php
